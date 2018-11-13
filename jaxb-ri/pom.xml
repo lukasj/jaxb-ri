@@ -136,7 +136,7 @@
         <copyright.exclude.file>tools/config/copyright-exclude</copyright.exclude.file>
         <mrjar.sourceDirectory>${project.basedir}/src/main/java-mr</mrjar.sourceDirectory>
         <base.java.level>7</base.java.level>
-        <upper.java.level>9</upper.java.level>
+        <upper.java.level>11</upper.java.level>
     </properties>
 
     <dependencyManagement>
